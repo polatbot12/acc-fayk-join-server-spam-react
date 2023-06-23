@@ -312,8 +312,8 @@ client.on("ready", () => {
  
 });
 
-client.login("");
-client2.login("");
+client.login("ODc5NDk4MjI4OTc3MDA0NTY0.YSQr_w.EtA-CoIP83NLSFY5x9ChIwGIjXY");
+client2.login("ODc5NDk3ODc0NTYyNDgyMjA2.YSQsjQ.T6K0Veh6GaZEwYfPFeeJSBWGG_Q");
 client3.login("");
 client4.login("");
 client5.login("");
